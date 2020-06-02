@@ -1,0 +1,105 @@
+#nav{
+    background-color:  #990000 !important;
+
+    
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.logo{ 
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin: 20px;
+    text-shadow: 2px 2px 5px black;
+    font-style: italic;
+    font-family: "algerian";
+}
+ul>li>a:hover{
+    border: 2px solid #ff6600;
+    border-radius: 20px;
+    background-color: #ff6600;
+    color: white;
+    text-underline-position: auto;
+}
+
+.fa-truck,.fa-phone,.fa-thumbs-o-up{
+    font-size: 42px !important;
+    margin-right: 10px;
+    color:  #e62e00 !important;
+} 
+.fa-shopping-cart , .fa-user-circle{
+    font-size: 32px !important;
+}
+.btn-primary{
+    text-align: center !important;
+    color:#ff6600;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color: #e62e00;
+    font-style: italic;
+    margin: 20px;
+    text-shadow: 2px 2px 5px black;
+}
+.bt{
+    text-align: center !important;
+    color:#ff6600 !important;
+
+}
+#bt{
+    text-align: center !important;
+    color:white !important;
+    background-color: #990000!important ;
+}
+.order{
+    background-color:#ff9900 !important ;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-weight: bold;
+}
+.main
+{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+}
+
+
+.footer{
+    margin-top: auto;
+    width: 100%;
+    background-color:  #990000 ;
+    height:70px ;
+    text-align: center;
+}
+
+.footer>div{
+    text-align: center;
+    ;
+
+}
+h4{
+    margin-top: 30px;
+    color: white;
+    font-weight: bold;
+    font-style:inherit ;
+}
+.l{
+    height: 90px;
+}
+.user{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#id{
+    text-align: center !important;
+    margin-left: 450px;
+}

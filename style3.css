@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap');
+
+#nav{
+    background-color:  #990000 !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.logo{ 
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin: 20px;
+    text-shadow: 2px 2px 5px black;
+    font-style: italic;
+    font-family: "algerian";
+}
+ul>li>a:hover{
+    border: 2px solid #ff6600;
+    border-radius: 20px;
+    background-color: #ff6600;
+    color: white;
+    text-underline-position: auto;
+}
+
+.fa-truck,.fa-phone,.fa-thumbs-o-up{
+    font-size: 42px !important;
+    margin-right: 10px;
+    color:  #e62e00 !important;
+} 
+.fa-shopping-cart , .fa-user-circle{
+    font-size: 32px !important;
+}
+
+/* .container{
+    width:2500px !important;
+} */
+
+h1{
+    font-family: "algerian";
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 4px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+p{
+    font-family: "Poppins";
+    font-weight: 300;
+}
+b{
+    font-weight: 700;
+}
+
+
+
+
+/* Footer */
+
+
+.footer{
+    margin-top: auto;
+    width: 100%;
+    background-color:  #990000 ;
+    height:70px ;
+    text-align: center;
+}
+
+.footer>div{
+    text-align: center;
+    ;
+
+}
+h4{
+    margin-top: 30px;
+    color: white;
+    font-weight: bold;
+    font-style:inherit ;
+}
+.main
+{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+}
+.terms{
+    text-align: center;
+    font-weight: bold;
+    color: #e62e00;
+    font-style: italic;
+    text-shadow: 2px 2px 5px black;
+}
+.user{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#term-and-condition{
+    margin-left: 45opx;
+    margin-right: ;
+    background-color: #990000 !important ;
+    
+}
+.btn-primary{
+
+    width: 100%;
+    background-color: #990000 !important ;
+}

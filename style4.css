@@ -1,0 +1,22 @@
+.col-sm-10{
+    text-align: center;
+
+}
+.btn-primary{
+    background-color: #990000 !important;
+    text-shadow:2px 2px 5px black;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color: #e62e00;
+    font-style: italic;
+    margin: 20px;
+}
+.heading>h1{
+    text-shadow: 2px 2px 5px black;
+}
+.user{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}

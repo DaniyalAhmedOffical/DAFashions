@@ -1,0 +1,195 @@
+#nav{
+    background-color:  #990000 !important;
+    
+    
+
+    
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.logo{ 
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin: 20px;
+    text-shadow: 2px 2px 5px black;
+    font-style: italic;
+    font-family: "algerian";
+}
+.fa-shopping-cart , .fa-user-circle{
+    font-size: 32px !important;
+}
+ul>li>a:hover{
+    border: 2px solid #ff6600;
+    border-radius: 20px;
+    background-color: #ff6600;
+    color: white;
+    text-underline-position: auto;
+}
+
+
+
+.fa-truck,.fa-phone,.fa-thumbs-o-up{
+    font-size: 42px !important;
+    margin-right: 10px;
+    color:  #e62e00 !important;
+    text-shadow: 2px 2px 5px black;
+} 
+h3{ 
+    color:  #e62e00;
+    text-shadow: 2px 2px 5px black;
+
+}
+
+.card1,.card2,.card3{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background-color:white;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.maincard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;    
+
+}
+.newarrivals{
+    margin-top: 50px;
+    
+
+}
+.card{
+    height: 400px;
+    width: 200px;
+    margin-top: 5px;
+
+}
+.card-text{
+    font-weight: bold;
+}
+.btn-primary{
+    width: 100%;
+    background-color: #990000 !important ;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color: #e62e00;
+    font-style: italic;
+    margin: 20px;
+}
+.heading>h1{
+    text-shadow: 2px 2px 5px black;
+}
+.footer{
+    margin-top: auto;
+    width: 100%;
+    background-color:  #990000 ;
+    height:70px ;
+    text-align: center;
+}
+
+.footer>div{
+    text-align: center;
+    ;
+
+}
+h4{
+    margin-top: 30px;
+    color: white;
+    font-weight: bold;
+    font-style:inherit ;
+}
+.main
+{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+}
+.thanku{
+    text-align: center;
+    font-weight: bold;
+    color: #e62e00;
+    font-style: italic;
+    margin: 20px;
+    text-shadow: 2px 2px 5px black;
+}
+
+.tlogo{
+    height: 400px;
+    position: relative;
+    left:35%;   
+    /* margin-left: 470px; */
+}
+#back{
+    margin-left: 500px;
+    margin-top: 20px;
+}
+@media only screen and (max-width:1100px){
+    .tlogo{
+        height: 200px;
+        position: relative;
+        left:42%; 
+    }
+    #back{
+    margin-left: 420px;
+    margin-top: 20px;
+    }
+    /* .tlogo{
+        width: 100%;
+    } */
+}
+
+
+
+/* For About page */
+
+.events,.mission{
+    text-align: center;
+    padding-top:50px;
+}
+.user{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.marq
+{
+  
+    background-color: #990000  !important;
+    color: white;
+    text-align: center;
+    height: 40px;
+}
+
+.mar
+{
+    width: 95%;
+   align-items: center;
+   margin: auto;
+   height: 40px;
+    
+}
+.fashion{
+    text-align: center;
+    font-weight: bold;
+    color: #e62e00;
+    font-style: italic;
+    margin: 20px;
+
+    text-shadow: 2px 2px 5px black;
+}
+
